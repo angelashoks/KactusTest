@@ -1,0 +1,205 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6FCBE4CE-D6FA-40FD-BE4D-4507ED7284A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 812,
+    "width": 375,
+    "x": 746,
+    "y": -32
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 16,
+    "isEnabled": false,
+    "thickGridTimes": 12
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "22436AA7-CDFA-404F-988A-6163A4EE7A22"
+    },
+    {
+      "class": "oval",
+      "id": "8CDE039D-EC67-479C-B00F-FD78B78E3171"
+    },
+    {
+      "class": "oval",
+      "id": "5556B488-D6CC-488A-ABE8-8C1603DDA9D1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "29C6E672-7F7D-460F-8DD9-5DBA84B9A826"
+    },
+    {
+      "class": "oval",
+      "id": "E77B6F80-6C9E-4AE1-B9E7-2AC7FF5A7B71"
+    },
+    {
+      "class": "oval",
+      "id": "BE712C2C-9569-46F1-B491-3B8C70306212"
+    },
+    {
+      "class": "oval",
+      "id": "3A65E5E4-E878-4FD2-BF57-3E908B483D2D"
+    },
+    {
+      "class": "oval",
+      "id": "F5EC039A-4644-4966-B2B8-5D2F9548108B"
+    },
+    {
+      "class": "oval",
+      "id": "AFE4CC26-688E-49DC-A351-CB5C0F7BD159"
+    },
+    {
+      "class": "oval",
+      "id": "B3E84A68-7F92-4C54-AC45-17147A12CBF6"
+    },
+    {
+      "class": "oval",
+      "id": "2A8EFC75-529D-4FD7-9A33-AAD0DB377768"
+    },
+    {
+      "class": "oval",
+      "id": "63088002-F257-42D2-BEFF-1F3D961F11CE"
+    },
+    {
+      "class": "oval",
+      "id": "0E4B0FD3-4D15-446E-BE42-CBD0E7B94CAB"
+    },
+    {
+      "class": "oval",
+      "id": "EF14B711-2457-4B00-9EBF-94624089B9CD"
+    },
+    {
+      "class": "oval",
+      "id": "F19097FA-B4A3-4613-9DA6-F466A06377C8"
+    },
+    {
+      "class": "text",
+      "id": "F916EADE-9220-4AA1-A07E-84206E2B7271"
+    },
+    {
+      "class": "text",
+      "id": "88811DBF-FD3E-4289-BAE3-22E3AD007560"
+    },
+    {
+      "class": "text",
+      "id": "21684B63-0A9D-4D36-9B15-F2F3F0A4BBB9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6C5AD4C2-5112-4508-85F6-FF2B34E54979"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "339919BF-58D4-4EE0-941C-B88B2FE9D12E"
+    }
+  ],
+  "name": "Galery",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone 11 Pro",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 10,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": false,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "E26B03B3-4582-4244-8BFD-03D8C2BAD240",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

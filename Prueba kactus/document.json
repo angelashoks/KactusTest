@@ -1,0 +1,485 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "63832774-41CC-4C9D-9EA6-95CADA9E9F44",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "1E22E4D1-320D-4BCB-AAB6-E5FFD91C5F85",
+  "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "0E272037-5338-4B3B-B4DB-96E6A57668D4",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37675.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Grange-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "12DCE6BF-87F6-4C72-B5CF-3F58E123A1A4",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37667.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-HeavyExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "14822A67-2CF8-41EC-9717-85FF424B3BD0",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37672.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-LightExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "18A33CE2-0285-41A1-8D9E-FF4EA9729E92",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37660.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLightExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "262B15FD-79A4-4C41-A888-182EE8158064",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37645.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "288A2125-74AB-45FD-B12A-66D418510370",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37684.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ThinExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4209740C-7403-4D59-98FE-52D3500B16A0",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37682.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ThinCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "425CEF39-8A36-4F8D-9702-03B2BD4C65FF",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37646.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-BoldCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "47B98AF6-8FFF-4AF2-B9FC-CB211D87E03F",
+      "fontFamilyName": "HWT Artz",
+      "fontFileName": ".23757.otf",
+      "options": 2,
+      "postscriptNames": [
+        "HWTArtz"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "48DBCA0D-78E2-45C7-AE82-91683B067104",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37652.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-DemiBoldCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "4D798B4A-F312-43B4-B35F-6148C3758743",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37659.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLightCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5036AB0A-3D5A-4089-9129-5BBC87650F7A",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37683.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ThinCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "541D8BA9-FE83-45A4-BCE1-423438BF0015",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37649.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-BoldExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "57A5688C-54DD-4D95-B6AB-BF27FF44F435",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37661.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLightExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5A68E58E-F3EA-43AD-99C6-2E90B58815C8",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37653.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-DemiBoldCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5B3445B1-3995-4018-A802-32C28047B2F5",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37668.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-HeavyIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "5FC5ED4A-1D2C-4CBE-A317-6B5C4931842C",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37666.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-HeavyExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "61D01E75-B8FD-4286-A548-3101426D7905",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37650.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-BoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "63774CD4-9504-4A2E-8689-59C073C47334",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37673.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-LightExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "6892F284-97BB-4FD4-98C1-F25870CD5E32",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37677.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-MediumCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "77D9BB4F-5B12-487C-AC60-9C9A34F1E78A",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37651.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Grange-DemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7AA39C28-647E-4633-B908-F495180FF232",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37686.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ThinIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "84C1D36A-20E9-44B0-B603-B1CA00F071D8",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37658.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLightCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "866D8DDC-70E8-4C77-8CDD-4D4F838327E2",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37671.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-LightCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "97B3BEC0-001E-4413-ADB7-B6CAB7D423DE",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37678.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-MediumExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A81E153D-8BF9-43AF-B7EB-34F391069662",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37657.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AB208D23-F871-48D5-B157-93EA1732B4B9",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37669.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B40A7C18-343E-4BF5-8DA2-645021198288",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37647.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-BoldCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B7B1B04A-5F97-4EB8-8F9C-4C670E0E98F2",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37679.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-MediumExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BB72B312-645A-48E0-8D41-DDE0B57B0819",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37674.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-LightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BDA4579B-2F40-4DEB-A50C-9335BED45DB6",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37655.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-DemiBoldExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C0396FC0-F18E-4244-A948-4D2DF86CBAA3",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37662.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ExtraLightIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C601746C-8FC3-4D5F-8C15-CDC45FD2141F",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37663.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-Heavy"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "C87F82DD-6437-4FBE-9917-E5E4A06189AB",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37648.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-BoldExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CA9997BC-8796-44DD-9236-1D291B2BE942",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37685.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-ThinExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "CACDDD70-EA8E-4948-8B02-7330051CA3B9",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37654.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-DemiBoldExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D2FB534F-08D1-4580-903E-C309C4F47813",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37665.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-HeavyCondIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D404F357-FAAC-450F-83E5-9C4CE9D1AC89",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37656.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-DemiBoldIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E2DEB87C-21A1-4C39-B9E1-5FF035D0B454",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37681.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EC31045A-41EA-4F76-A7C2-918F39513170",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37676.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-MediumCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EEB19113-C7DE-452C-90B3-ECDF8619CA84",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37664.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-HeavyCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FD56F104-58A6-42B1-BD5C-3F8D34309016",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37670.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-LightCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FF84AE5F-3180-47E7-A052-640C45F63BE2",
+      "fontFamilyName": "Grange",
+      "fontFileName": ".37680.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Grange-MediumIt"
+      ]
+    }
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "68.2",
+    "build": 102594,
+    "version": 131
+  },
+  "pages": [
+    "Practica 1",
+    "Symbols"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "objects": [
+    ]
+  }
+}
