@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 3,
+  "changeIdentifier": 4,
   "clippingMaskMode": 0,
   "do_objectID": "67180990-AC66-4E6A-8712-8880B1D45FB9",
   "exportOptions": {
@@ -68,6 +68,16 @@
   "name": "toolbar/primary",
   "nameIsFixed": false,
   "overrideProperties": [
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "C9F6D93A-8062-4C53-B9F1-616D741B2561_symbolID"
+    },
+    {
+      "_class": "MSImmutableOverrideProperty",
+      "canOverride": true,
+      "overrideName": "FEE54B6E-868E-4765-AFBA-E787E977D77C_symbolID"
+    }
   ],
   "presetDictionary": {
   },
