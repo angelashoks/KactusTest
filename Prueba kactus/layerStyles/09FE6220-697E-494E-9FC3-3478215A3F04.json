@@ -1,88 +1,8 @@
 {
-  "_class": "rectangle",
-  "booleanOperation": -1,
-  "clippingMaskMode": 0,
-  "do_objectID": "ECC92769-300A-44FE-BCC8-E3A4BFF6E393",
-  "edited": false,
-  "exportOptions": {
-    "_class": "exportOptions",
-    "exportFormats": [
-    ],
-    "includedLayerIds": [
-    ],
-    "layerOptions": 0,
-    "shouldTrim": false
-  },
-  "fixedRadius": 22,
-  "frame": {
-    "_class": "rect",
-    "constrainProportions": false,
-    "height": 44,
-    "width": 289,
-    "x": 0,
-    "y": 0
-  },
-  "hasClippingMask": false,
-  "hasConvertedToNewRoundCorners": true,
-  "isClosed": true,
-  "isFixedToViewport": false,
-  "isFlippedHorizontal": false,
-  "isFlippedVertical": false,
-  "isLocked": false,
-  "isVisible": true,
-  "layerListExpandedType": 0,
-  "name": "Rectangle",
-  "nameIsFixed": false,
-  "needsConvertionToNewRoundCorners": false,
-  "pointRadiusBehaviour": 1,
-  "points": [
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 22,
-      "curveFrom": "{0, 0}",
-      "curveMode": 1,
-      "curveTo": "{0, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 22,
-      "curveFrom": "{1, 0}",
-      "curveMode": 1,
-      "curveTo": "{1, 0}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 0}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 22,
-      "curveFrom": "{1, 1}",
-      "curveMode": 1,
-      "curveTo": "{1, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{1, 1}"
-    },
-    {
-      "_class": "curvePoint",
-      "cornerRadius": 22,
-      "curveFrom": "{0, 1}",
-      "curveMode": 1,
-      "curveTo": "{0, 1}",
-      "hasCurveFrom": false,
-      "hasCurveTo": false,
-      "point": "{0, 1}"
-    }
-  ],
-  "resizingConstraint": 63,
-  "resizingType": 0,
-  "rotation": 0,
-  "sharedStyleID": "09FE6220-697E-494E-9FC3-3478215A3F04",
-  "shouldBreakMaskChain": false,
-  "style": {
+  "_class": "sharedStyle",
+  "do_objectID": "09FE6220-697E-494E-9FC3-3478215A3F04",
+  "name": "fill/purple",
+  "value": {
     "_class": "style",
     "blur": {
       "_class": "blur",
@@ -116,7 +36,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8DBAE43F-B33B-4C8A-9050-F50D7AC5CFCD",
+    "do_objectID": "25AC4699-5259-4042-A034-2C8065B533FA",
     "endMarkerType": 0,
     "fills": [
       {
