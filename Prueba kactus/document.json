@@ -26,6 +26,16 @@
   "fontReferences": [
     {
       "_class": "fontReference",
+      "do_objectID": "0907617F-90EA-4D8D-B1EB-6FF26D44B5B9",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-BlackItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-BlackItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "0E272037-5338-4B3B-B4DB-96E6A57668D4",
       "fontFamilyName": "Grange",
       "fontFileName": ".37675.otf",
@@ -86,6 +96,36 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "2AD48245-86A8-4BCC-8FFA-DCFF5181A178",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "2F362FBA-4606-4769-8A77-FE84193D0237",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-MediumItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3E8A9892-4E66-4C28-BF85-8D8A41521BAE",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "4209740C-7403-4D59-98FE-52D3500B16A0",
       "fontFamilyName": "Grange",
       "fontFileName": ".37682.otf",
@@ -116,12 +156,32 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "48BDC70B-1653-41D2-9896-F84C8B0F4DDA",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "48DBCA0D-78E2-45C7-AE82-91683B067104",
       "fontFamilyName": "Grange",
       "fontFileName": ".37652.otf",
       "options": 0,
       "postscriptNames": [
         "Grange-DemiBoldCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "49D3051F-635D-4BCD-96F6-2B3BEE1D1C5C",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-ExtraBold"
       ]
     },
     {
@@ -176,6 +236,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "5A6B562E-AD6E-4C87-9320-9A82ADA4BD58",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-ExtraLight.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-ExtraLight"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "5B3445B1-3995-4018-A802-32C28047B2F5",
       "fontFamilyName": "Grange",
       "fontFileName": ".37668.otf",
@@ -196,6 +266,26 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "6065983E-BEE5-4562-8EBE-395705FD6345",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-LightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "612C1CDB-6182-4CCE-90C9-FE90167127D2",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-SemiBold.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Metropolis-SemiBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "61D01E75-B8FD-4286-A548-3101426D7905",
       "fontFamilyName": "Grange",
       "fontFileName": ".37650.otf",
@@ -212,6 +302,16 @@
       "options": 0,
       "postscriptNames": [
         "Grange-LightExtIt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "65B1E463-F077-447B-8A17-C480F9756270",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-RegularItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-RegularItalic"
       ]
     },
     {
@@ -246,6 +346,16 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "802CA1A3-3C3A-4B65-9730-9C1727EEBC1B",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-ExtraLightItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-ExtraLightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "84C1D36A-20E9-44B0-B603-B1CA00F071D8",
       "fontFamilyName": "Grange",
       "fontFileName": ".37658.otf",
@@ -266,12 +376,42 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "875C17AD-CAF8-45C0-AE1D-00051513D3E1",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-ThinItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "97B3BEC0-001E-4413-ADB7-B6CAB7D423DE",
       "fontFamilyName": "Grange",
       "fontFileName": ".37678.otf",
       "options": 0,
       "postscriptNames": [
         "Grange-MediumExt"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "9DB67713-8D98-406E-BE0B-202F87F46D19",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-SemiBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-SemiBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "A7C3F541-02A2-4C60-A547-FA2826443434",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Thin.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Metropolis-Thin"
       ]
     },
     {
@@ -292,6 +432,16 @@
       "options": 0,
       "postscriptNames": [
         "Grange-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "ADA99D9A-0F4E-45EA-87F2-9CB1D457DB02",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-Black"
       ]
     },
     {
@@ -406,12 +556,32 @@
     },
     {
       "_class": "fontReference",
+      "do_objectID": "E2592FCF-5437-4D5E-8F68-41F151A66F18",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-ExtraBoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
       "do_objectID": "E2DEB87C-21A1-4C39-B9E1-5FF035D0B454",
       "fontFamilyName": "Grange",
       "fontFileName": ".37681.otf",
       "options": 0,
       "postscriptNames": [
         "Grange-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "EAE4B2D3-C9AB-4C38-AA5F-F91DD25BD64B",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-BoldItalic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-BoldItalic"
       ]
     },
     {
@@ -432,6 +602,16 @@
       "options": 0,
       "postscriptNames": [
         "Grange-HeavyCond"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "F3D2B90C-FA02-4651-95FA-9A28710BDC81",
+      "fontFamilyName": "Metropolis",
+      "fontFileName": "Metropolis-Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Metropolis-Bold"
       ]
     },
     {
