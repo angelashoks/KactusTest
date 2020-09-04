@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Grange-DemiBold",
-              "size": 32
+              "name": "Metropolis-SemiBold",
+              "size": 28
             }
           },
           "paragraphStyle": {
@@ -50,12 +50,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 38,
-    "width": 288,
-    "x": 44,
-    "y": 300
+    "height": 34,
+    "width": 292,
+    "x": 42,
+    "y": 303
   },
-  "glyphBounds": "{{1, 10}, {286, 29}}",
+  "glyphBounds": "{{1, 7}, {289, 26}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -127,8 +127,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Grange-DemiBold",
-            "size": 32
+            "name": "Metropolis-SemiBold",
+            "size": 28
           }
         },
         "paragraphStyle": {
