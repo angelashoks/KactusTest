@@ -2,7 +2,7 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6C5AD4C2-5112-4508-85F6-FF2B34E54979",
+  "do_objectID": "F6D302BC-4A65-4C48-983A-40DB86E68614",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -18,7 +18,7 @@
     "height": 44,
     "width": 289,
     "x": 40,
-    "y": 642
+    "y": 696
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,9 +28,19 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "buttom/primary",
+  "name": "buttom/primary copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "ECC92769-300A-44FE-BCC8-E3A4BFF6E393_layerStyle",
+      "value": "43903930-F8E1-418D-9399-DDFDC071C214"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "6EE12CB0-7108-4F8A-996F-C1C681CCD42B_stringValue",
+      "value": "Skip"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,7 +81,7 @@
       "blendMode": 0,
       "opacity": 1
     },
-    "do_objectID": "8E382AA8-432D-4B39-AC2A-5FE33BC9E6C5",
+    "do_objectID": "54096B9C-5404-4865-802C-B6C3F68992F0",
     "endMarkerType": 0,
     "fills": [
     ],
