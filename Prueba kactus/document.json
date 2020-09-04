@@ -29,7 +29,7 @@
       "do_objectID": "0E272037-5338-4B3B-B4DB-96E6A57668D4",
       "fontFamilyName": "Grange",
       "fontFileName": ".37675.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Grange-Medium"
       ]
@@ -109,7 +109,7 @@
       "do_objectID": "47B98AF6-8FFF-4AF2-B9FC-CB211D87E03F",
       "fontFamilyName": "HWT Artz",
       "fontFileName": ".23757.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "HWTArtz"
       ]
@@ -229,7 +229,7 @@
       "do_objectID": "77D9BB4F-5B12-487C-AC60-9C9A34F1E78A",
       "fontFamilyName": "Grange",
       "fontFileName": ".37651.otf",
-      "options": 2,
+      "options": 0,
       "postscriptNames": [
         "Grange-DemiBold"
       ]
@@ -469,8 +469,8 @@
     ]
   },
   "meta": {
-    "appVersion": "68.2",
-    "build": 102594,
+    "appVersion": "68.1",
+    "build": 102560,
     "version": 131
   },
   "pages": [
@@ -481,5 +481,10 @@
     "_class": "swatchContainer",
     "objects": [
     ]
+  },
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
   }
 }
