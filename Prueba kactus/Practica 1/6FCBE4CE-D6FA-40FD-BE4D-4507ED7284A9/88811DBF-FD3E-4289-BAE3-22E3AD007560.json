@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Grange-Medium",
+              "name": "Helvetica",
               "size": 14
             }
           },
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 284,
+        "length": 262,
         "location": 0
       }
     ],
-    "string": "Tum dicere exorsus est et molestiae non ero tibique, si mihi probabis ea, quae dices, libenter assentiar probabo, inquit, modo ista sis aequitate, quam nihil est, quid percipit aut quid percipit aut petat aut interrogari ut placet, inquam tum dicere exorsus est primum igitur, inquit."
+    "string": "Tum dicere exorsus est et molestiae non ero tibique, si mihi probabis ea, quae dices, libenter assentiar probabo, inquit, modo ista sis aequitate, quam nihil est, quid percipit aut quid percipit aut petat aut interrogari ut placet, inquam tum dicere exorsus est."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -49,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 119,
+    "height": 102,
     "width": 295,
     "x": 40,
     "y": 182
   },
-  "glyphBounds": "{{8, 4}, {279, 115}}",
+  "glyphBounds": "{{0, 3}, {295, 99}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
